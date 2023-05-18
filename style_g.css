@@ -383,6 +383,10 @@ section
     align-items: center;
     gap: 2rem;
     background: url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/logos.jpeg?raw=true");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .container h1

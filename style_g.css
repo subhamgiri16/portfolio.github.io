@@ -531,7 +531,7 @@ section
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;  
+    background-size: cover;    
 }
 
 .heading
@@ -557,10 +557,10 @@ section
 {
     width: 300px;
     height: 500px;
-    background-image: url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/book-cover.png?raw=true");
+    background-image: url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/book-cover_2.png?raw=true");
     background-size: 100% 100%;
     box-shadow: 10px 10px 8px #888888;
-    animation: changeImage2 20s linear infinite;
+    animation: changeImage2 45s linear infinite;
 }
 
 @keyframes changeImage2

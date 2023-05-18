@@ -34,7 +34,7 @@ section
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-    background:url("Graphics Design/Raw/purple-gradient-luxury-background-design_343694-2556.png") ;
+    background:url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/purple-gradient-luxury-background-design_343694-2556.png?raw=true") ;
     background-repeat:initial;
 }
 
@@ -205,7 +205,7 @@ section
     display: flex;
     justify-content: center;
     align-items:center;
-    background: url("Graphics Design/Raw/purple-gradient-luxury-background-design_343694-2556.png");
+    background: url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/purple-gradient-luxury-background-design_343694-2556.png?raw=true");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -382,7 +382,7 @@ section
     justify-content: center;
     align-items: center;
     gap: 2rem;
-    background: url("Graphics Design/Raw/logos.jpeg");
+    background: url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/logos.jpeg?raw=true");
 }
 
 .container h1
@@ -401,7 +401,7 @@ section
 {
     width: 400px;
     height: 400px;
-    background-image: url("Graphics Design/Logo-1/1.png");
+    background-image: url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/f.png?raw=true");
     background-size: 100% 100%;
     box-shadow: 10px 10px 8px #888888;
     animation: changeImage 45s linear infinite;
@@ -411,43 +411,43 @@ section
 {
     0%
     {
-        background-image:url("Graphics Design/Logo-1/1.png");
+        background-image:url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/f.png?raw=true");
     }
     10%
     {
-        background-image:url("Graphics Design/Logo-1/2.png");
+        background-image:url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/s.png?raw=true");
     }
     20%
     {
-        background-image:url("Graphics Design/skybag/1.png");
+        background-image:url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/1%20-%20Copy.png?raw=true");
     }
     30%
     {
-        background-image:url("Graphics Design/skybag/2.png");
+        background-image:url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/2%20-%20Copy.png?raw=true");
     }
     40%
     {
-        background-image:url("Graphics Design/Green-Tea.png");
+        background-image:url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/Green-Tea.png?raw=true");
     }
     50%
     {
-        background-image:url("Graphics Design/Fiverr.png");
+        background-image:url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/Fiverr.png?raw=true");
     }
     60%
     {
-        background-image:url("Graphics Design/Eye-Drop.png");
+        background-image:url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/Eye-Drop.png?raw=true");
     }
     70%
     {
-        background-image:url("Graphics Design/Bunny.png");
+        background-image:url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/Bunny.png?raw=true");
     }
     80%
     {
-        background-image:url("Graphics Design/P_Logo.png");
+        background-image:url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/P_Logo.png?raw=true");
     }
     90%
     {
-        background-image:url("Graphics Design/GOA.png");
+        background-image:url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/GOA.png?raw=true");
     }
 }
 
@@ -457,7 +457,7 @@ section
     justify-content: center;
     align-items: center;
     gap: .5rem;
-    background:url("Graphics Design/Raw/social-media-elements-background_79603-1520.png");
+    background:url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/social-media-elements-background_79603-1520.png?raw=true");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -487,7 +487,7 @@ section
 {
     width: 850px;
     height: 500px;
-    background-image: url("Graphics Design/Logo-1/1.png");
+    background-image: url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/Coffee.png?raw=true");
     background-size: 100% 100%;
     box-shadow: 10px 10px 8px #888888;
     animation: changeImage1 45s linear infinite;
@@ -497,23 +497,23 @@ section
 {
     0%
     {
-        background-image:url("Graphics Design/Posters/Coffee.png");
+        background-image:url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/Coffee.png?raw=true");
     }
     25%
     {
-        background-image:url("Graphics Design/Posters/Chocolate.png");
+        background-image:url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/Chocolate.png?raw=true");
     }
     50%
     {
-        background-image:url("Graphics Design/Posters/Ice\ Cream.png");
+        background-image:url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/Ice%20Cream.png?raw=true");
     }
     75%
     {
-        background-image:url("Graphics Design/Posters/Jet\ Airways\ .png");
+        background-image:url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/Jet%20Airways%20.png?raw=true");
     }
     100%
     {
-        background-image:url("Graphics Design/Posters/SWIGGY.png");
+        background-image:url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/SWIGGY.png?raw=true");
     }
 }
 
@@ -523,7 +523,7 @@ section
     justify-content: center;
     align-items: center;
     gap: .5rem;
-    background:url("Graphics Design/Raw/modern-abstract-background-design-with-colorful-liquid-shapes-fluid-background-design-for-landing-page-theme-brochure-banner-cover-print-flyer-book-card-or-a.png");
+    background:url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/modern-abstract-background-design-with-colorful-liquid-shapes-fluid-background-design-for-landing-page-theme-brochure-banner-cover-print-flyer-book-card-or-a.png?raw=true");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -553,7 +553,7 @@ section
 {
     width: 300px;
     height: 500px;
-    background-image: url("Graphics Design/Logo-1/1.png");
+    background-image: url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/book-cover.png?raw=true");
     background-size: 100% 100%;
     box-shadow: 10px 10px 8px #888888;
     animation: changeImage2 20s linear infinite;
@@ -563,7 +563,7 @@ section
 {
     0%
     {
-        background-image:url("Graphics Design/Book-Cover/book-cover.png");
+        background-image:url("https://github.com/Subham-Giri1608/portfolio.github.io/blob/main/book-cover.png?raw=true");
     }
     25%
     {
